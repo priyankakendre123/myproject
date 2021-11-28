@@ -1,0 +1,19 @@
+package string;
+
+public class Str3 {
+public static void main(String[] args) {
+	String s1= "abc";
+	String s2= "abcd";
+	String s3="ABCD";
+	String s4="abcdefgh";
+	String s5="abcd efg hij";
+	System.out.println(s2.length());         //4
+	System.out.println(s2.isEmpty());      //false
+	//System.out.println(s1.substring(2));   
+	//System.out.println(s1.equals(s2));      //false
+	System.out.println(s2.equalsIgnoreCase(s1)); //change true or false
+	System.out.println(s4.contains(s4));       //true
+	System.out.println(s5.concat ( s1));
+	System.out.println(s1.replace(s1, s2));
+	System.out.println(s1.matches(s4));    //false
+
