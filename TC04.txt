@@ -1,0 +1,12 @@
+package string;
+
+public class Str2 {
+public static void main(String[] args) {
+	String s="Selenium";
+	System.out.println(s.toUpperCase());
+	System.out.println(s.toLowerCase());
+	System.out.println(s.charAt(7));
+	System.out.println(s.indexOf("e"));
+	System.out.println(s.startsWith("S"));
+	System.out.println(s.contains("eel"));
+	System.out.println(s.startsWith("Se"));
