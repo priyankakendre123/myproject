@@ -1,0 +1,9 @@
+
+Your Daily routine:
+
+1.	Analyze the daily report and focus failed Test case
+2.	Find out the reason failure
+	Failed due to automation script
+	Failed due to test data
+	Failed due to locator change
+If failure reason is one of Above then we need to fix it.
