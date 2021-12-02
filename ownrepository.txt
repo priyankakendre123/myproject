@@ -1,0 +1,17 @@
+As a test Automation Test Engg. what are you Roles and responsibility automation test engg:-
+
+1.	Create Test suite
+2.	Selenium environment setup:
+a.Eclipse setup: java path setup,
+3.	Application env setup: config file.
+4.	Identify automatable Test cases.
+Ex: 
+	Test case should not include capcha, barcode, otp.
+	Test should not include one time activity.
+	Test should not part of backend activity.
+	All the element should be identified and lcate.
+5.	Inspect element and identify object.
+6.	Automation script for new Test cases.
+7.	Prioritize automation (focusing upcoming release, Test case functionality).
+8.	After automation make sure Test case is working end to end and it should work on other side also.
+9.	Analyzes daily failed Test cases and find out root 
