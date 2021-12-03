@@ -1,1 +1,34 @@
- this is document 
+ 
+UNIX --> It is an operating system. It does not provide GUI (graphical user interface)
+so we have perform all operations using CLI (command line interface)
+
+It is expected to have atleast basic knowledge of UNIX irrespective of job profile.
+
+Why UNIX?
+Advantages:
+1) It provides high security
+2) Multiple Users can login at the same time
+3) Multitasking
+4) reduced time to perform operations
+5) Low in maintainance
+
+Where do we use UNIX in Projects?
+1) Used to perform operations on server side documents/applications
+2) To access/analyze log files
+
+
+LINUX, fedora, redhat, ubantu --> subsets of UNIX --> GUI + CLI
+
+window where we write and execute UNIX commands --> terminal window
+
+files --> files
+folders --> directories
+
+To establish connection between server(UNIX) and local (windows 10) machines we
+make use of --> Putty Configuration
+
+========================================================================
+
+virtual system/terminal:
+
+https://cocalc.com/app
